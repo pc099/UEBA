@@ -172,3 +172,18 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+.idea/.gitignore
+.idea/aws.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/UEBA.iml
+.idea/inspectionProfiles/profiles_settings.xml
+.idea/inspectionProfiles/Project_Default.xml
+data/raw/Friday-WorkingHours-Afternoon-DDos.pcap_ISCX.csv
+data/raw/Friday-WorkingHours-Afternoon-PortScan.pcap_ISCX.csv
+data/raw/Friday-WorkingHours-Morning.pcap_ISCX.csv
+data/raw/Monday-WorkingHours.pcap_ISCX.csv
+data/raw/Thursday-WorkingHours-Afternoon-Infilteration.pcap_ISCX.csv
+data/raw/Thursday-WorkingHours-Morning-WebAttacks.pcap_ISCX.csv
+data/raw/Tuesday-WorkingHours.pcap_ISCX.csv
+data/raw/Wednesday-workingHours.pcap_ISCX.csv
