@@ -1,7 +1,7 @@
 # threat_feed_ingestion.py
 import csv
 # import requests  # if fetching from an external API
-from src.knowledge_manager import KnowledgeManager
+from src.Knowledge_pillar.knowledge_manager import KnowledgeManager
 
 def ingest_threat_feed(csv_file_path: str):
     """
